@@ -1,0 +1,7 @@
+1
+Be sure to select the correct mutation for skin color
+1
+based on your environment.
+2
+Darker skin colors help your character in an environment with more sun,
+and lighter skin helps your character in an environment with less sun.
